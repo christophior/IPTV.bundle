@@ -1,5 +1,11 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ABC" tvg-name="ABC News" group-title="News" tvg-logo="http://www.adweek.com/tvnewser/files/2010/11/abc_news_logo.jpg",ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-#EXTINF:0 tvg-id="NFL Network" tvg-name="NFL Network" tvg-logo="http://www.streamingobserver.com/wp-content/uploads/2016/08/NFL-Network-Sling-TV.jpg" group-title="Entertainment",NFL Network
+#EXTINF:0 tvg-id="NFL Network" tvg-name="NFL Network" tvg-logo="http://www.streamingobserver.com/wp-content/uploads/2016/08/NFL-Network-Sling-TV.jpg" group-title="Sports",NFL Network
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_h.m3u8
+#EXTINF:0 tvg-id="Vevo 1" tvg-name="Vevo 1" tvg-logo="https://pmcvariety.files.wordpress.com/2014/04/vevo_logo.jpg" group-title="Music",Vevo 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:0 tvg-id="Vevo 2" tvg-name="Vevo 2" tvg-logo="https://pmcvariety.files.wordpress.com/2014/04/vevo_logo.jpg" group-title="Music",Vevo 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:0 tvg-id="Vevo 3" tvg-name="Vevo 3" tvg-logo="https://pmcvariety.files.wordpress.com/2014/04/vevo_logo.jpg" group-title="Music",Vevo 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
